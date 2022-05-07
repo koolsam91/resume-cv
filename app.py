@@ -9,6 +9,8 @@ import pdfplumber
 from docx import Document
 from stqdm import stqdm
 from random import randint
+import nltk
+nltk.download('stopwords')
 
 st.set_page_config(page_title="Resume Extractor", page_icon=":tired:", layout="wide")
 
