@@ -1,8 +1,0 @@
-docx==0.2.4
-pandas==1.1.5
-pdfplumber==0.6.0
-PyPDF2==1.27.12
-pyresparser==1.0.6
-python_docx==0.8.11
-stqdm==0.0.4
-streamlit==1.8.1
