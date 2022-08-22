@@ -1,0 +1,366 @@
+,Skills
+0,.net
+1,.net core
+2,.net framework
+3,.net-core
+4,3ds max
+5,AGILE
+6,Agile development
+7,Amazon Cloud Services
+8,Analytical Thinking
+9,Analytical skills
+10,Angular 2+
+11,AngularJS
+12,Bitbucket
+13,Bootstrap
+14,C
+15,C#
+16,C++
+17,CSS
+18,CSS 3
+19,CSS grid
+20,CSS3
+21,Communication Skills
+22,DDL
+23,DML
+24,DOM manipulation
+25,Dart
+26,Database
+27,Django
+28,Docker
+29,ES6
+30,Express framework
+31,Flutter
+32,Front end design
+33,Git / GitHub 
+34,HTML
+35,HTML 5
+36,Heroku
+37,Javascript
+38,Lavarel
+39,Lumen
+40,MVP
+41,MVVM
+42,MySQL
+43,NodeJS
+44,OOP
+45,Object-Oriented Programming
+46,PHP
+47,PHPUnits
+48,Problem Solving
+49,RXJS
+50,React
+51,React / Jsx
+52,React JS
+53,Redux
+54,RestAPI consumption
+55,SCRUM
+56,SQL
+57,SQL Alchemy
+58,SQLite
+59,Strapi
+60,TCL
+61,TDD
+62,Tailwind
+63,Time Management
+64,Typescript
+65,UI development
+66,User Experience
+67,Version Control System
+68,Vue JS
+69,Web APIs
+70,WordPress
+71,adaptability
+72,adobe illustrator
+73,adobe photoshop
+74,adobe xd
+75,aftereffect
+76,agora
+77,ahrefs
+78,ajax
+79,amazon aws
+80,android
+81,android development
+82,android studio
+83,androidstudio
+84,angular
+85,angular 6 o superior
+86,ansys workbench
+87,antd
+88,apache
+89,apache flex
+90,apache tomcat
+91,api
+92,api gateway
+93,api rest
+94,app flow
+95,arduino
+96,asana
+97,asp.net
+98,asp.netcore5
+99,autocad
+100,aws
+101,aws lambda
+102,aws s3
+103,axios
+104,azure
+105,azurecloud
+106,bases de datos
+107,bash
+108,beautifulsoup
+109,bitbucket
+110,bitrix24
+111,bootstrap
+112,business process
+113,c#
+114,c+
+115,cakephp
+116,chainlink
+117,chakra ui
+118,ci/cd
+119,circle ci
+120,cisco cvp
+121,cisco networking
+122,cisco ucce
+123,cisco uccx
+124,clean architecture
+125,cloudformation
+126,cloudfront
+127,cloudinary
+128,cloudwatch
+129,cms
+130,codeigniter
+131,collaborating skills
+132,command-line interface
+133,communication
+134,composer
+135,computer network administration
+136,confluence
+137,context api
+138,contextapi
+139,coroutines
+140,css
+141,css/sass
+142,css3
+143,cyber security fundamentals
+144,d3js
+145,dagger-hilt
+146,dart
+147,database design
+148,db
+149,detail oriented
+150,devops
+151,digital marketing
+152,digital ocean
+153,django
+154,dns configuration
+155,docker
+156,docker compose
+157,draw.io
+158,drools
+159,drupal
+160,dynamodb
+161,ecmascript
+162,encryption
+163,eon
+164,ethereum
+165,etherjs
+166,express
+167,express.js
+168,expressjs
+169,fast learner
+170,fastapi
+171,fiddler
+172,figma
+173,figma design
+174,firebase
+175,firebase analytics
+176,firestore
+177,flask
+178,flask mail
+179,flutter
+180,frappe
+181,fusionkubernetes
+182,ganache
+183,genesys
+184,git
+185,git kraken
+186,git versioning
+187,github
+188,gitlab
+189,golang
+190,google cloud
+191,google cloud platform
+192,google search
+193,goscript
+194,graphic designing
+195,graphql
+196,gsap
+197,gulp
+198,haskell
+199,html
+200,html - css
+201,html/css
+202,html5
+203,hugo
+204,indesign
+205,invisi on
+206,ionic
+207,jQuery
+208,java
+209,java ee
+210,java gradle
+211,java maven
+212,java se
+213,java y spring
+214,javascript
+215,jenkins
+216,jest
+217,jira
+218,joomla
+219,jquery
+220,json
+221,jwt
+222,kafka
+223,kali linux
+224,kotlin
+225,kubernetes
+226,lambdas
+227,lavarel
+228,leadership
+229,linux
+230,logical thinking
+231,loopback4
+232,magento
+233,makehuman
+234,mariadb
+235,material design
+236,material ui
+237,maven
+238,maximo
+239,mechanical apdl
+240,microservices
+241,microsoft dynamics
+242,microsoft office
+243,microsoft visio
+244,mongo db
+245,mongodb
+246,mongoose
+247,moralis
+248,ms sql server
+249,mssql
+250,multi tasking
+251,mysql
+252,nestjs
+253,net core
+254,net framework
+255,next js
+256,next.js
+257,nextjs
+258,nginx
+259,ngnix
+260,node
+261,node js
+262,node.js
+263,nodejs
+264,notion
+265,npm
+266,opencart
+267,opencv
+268,oracle
+269,paging
+270,pandas
+271,phalcon
+272,photoshop
+273,php
+274,pivotal tracker
+275,pm2
+276,postgres
+277,postgresql
+278,postman
+279,power bi
+280,presentation skills
+281,problem solver
+282,prolog
+283,python
+284,rabbitmq
+285,racket
+286,rancha
+287,raspberry pi
+288,razor
+289,react
+290,react js
+291,react native
+292,react query
+293,react.js
+294,reactjs
+295,redis
+296,redux
+297,redux-saga
+298,remix
+299,resilience
+300,rest api
+301,retrofit
+302,risk management
+303,room
+304,ruby on rails
+305,rxjava
+306,sass
+307,scrum
+308,scss
+309,selenium
+310,semrush
+311,sequelize
+312,server configuration
+313,serverless application
+314,severless
+315,shell
+316,shell scripting
+317,soap
+318,soapui
+319,social media management
+320,solid principles
+321,solidity
+322,solidworks
+323,sonarqube
+324,spark
+325,spring
+326,spring boot
+327,spring boot y
+328,sql server
+329,sqlacademy
+330,sqlite
+331,swagger
+332,swift
+333,symfony
+334,tailwind
+335,team leading
+336,thymeleaf
+337,trello
+338,truffle
+339,typescript
+340,ui/ux
+341,uml
+342,unit test
+343,unit testing
+344,unity3d
+345,user interface
+346,vb.net
+347,vercel
+348,visual studio
+349,vmware
+350,vscode
+351,vue
+352,vue.js
+353,vuetify
+354,wcf
+355,web api
+356,web performance
+357,web3.js
+358,webapi
+359,webpack
+360,webrtc
+361,windows
+362,wiremock
+363,wordpress
+364,xml
