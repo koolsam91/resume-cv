@@ -19,6 +19,7 @@ import nltk
 from stqdm import stqdm
 from random import randint
 
+nltk.download('stopwords')
 # load pre-trained model
 nlp = spacy.load('en_core_web_sm')
 
