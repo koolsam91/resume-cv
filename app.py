@@ -15,7 +15,7 @@ import re
 from collections import defaultdict
 from nltk.corpus import stopwords
 import sys
-import fitz
+import nltk
 from stqdm import stqdm
 from random import randint
 
